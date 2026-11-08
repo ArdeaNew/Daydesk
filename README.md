@@ -1,2 +1,1 @@
-# Daydesk
-Daydesk
+# Daydesk`n`nDaydesk is a quiet local workspace for work, notes, planning and travel.`n`n## v2.0.0`n`n- Week planning and Inbox`n- Notes, Memo, Opinions and Articles`n- Gantt calendar and task pool`n- Local-first data and bilingual UI`n- Windows 10+ x64 portable application`n
